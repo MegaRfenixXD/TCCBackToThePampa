@@ -1,2 +1,2 @@
 # TCCBackToThePampa
-Jogo Legal TCC
+software jogo para diversao e aprendizado.
